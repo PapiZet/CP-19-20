@@ -1,2 +1,1 @@
-# CP-19-20
-Cálculo de Programas
+Trabalho medíocre/para o 10
